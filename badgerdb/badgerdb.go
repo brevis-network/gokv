@@ -1,7 +1,7 @@
 package badgerdb
 
 import (
-	"github.com/dgraph-io/badger"
+	"github.com/dgraph-io/badger/v4"
 
 	"github.com/philippgille/gokv/encoding"
 	"github.com/philippgille/gokv/util"
